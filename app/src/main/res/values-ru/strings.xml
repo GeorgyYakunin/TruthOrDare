@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_text">Вы уверены, что хотите выйти из этой игры?</string>
+    <string name="rating_dialog_cancel">Отмена</string>
+    <string name="rating_dialog_experience">Оцените нам ваш опыт с нами?</string>
+    <string name="rating_dialog_feedback_title">Обратная связь</string>
+    <string name="rating_dialog_maybe_later">Не сейчас</string>
+    <string name="rating_dialog_never">Никогда</string>
+    <string name="rating_dialog_submit">Разместить</string>
+    <string name="rating_dialog_suggestions">«Предложите нам, что пошло не так, и мы будем работать над этим!»</string>
+    <string name="tagmanager_preview_dialog_button">Продолжить</string>
+    <string name="tagmanager_preview_dialog_message">Режим предварительного просмотра обновлен.</string>
+    <string name="tagmanager_preview_dialog_title">Предварительный просмотр</string>
+    <string name="title_add_dares">Добавить вызов</string>
+    <string name="title_add_players">Добавить игроков</string>
+    <string name="title_add_truths">Добавить правду</string>
+    <string name="title_score_card">Счетная карточка</string>
+    <string name="back">НАЗАД</string>
+    <string name="lets_play">ИГРАТЬ</string>
+    <string name="truth_or_dare">Правда или Вызов</string>
+    <string name="sound_on">ЗВУК ВКЛ</string>
+    <string name="sound_off">ЗВУК ОТКЛ</string>
+    <string name="score">СЧЕТ</string>
+    <string name="change">СМЕНИТЬ</string>
+    <string name="add_truth">Добавить правду</string>
+    <string name="add_dare">Добавить вызов</string>
+    <string name="share">Поделиться</string>
+    <string name="setting">НАСТРОЙКИ</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="kids">Дети</string>
+    <string name="text">текст</string>
+    <string name="question_here">Вопрос здесь</string>
+    <string name="forfeit">ШТРАФ</string>
+    <string name="done">СДЕЛАНО</string>
+    <string name="score_card">Счетная карточка</string>
+    <string name="truth">ПРАВДА</string>
+    <string name="dare">ВЫЗОВ</string>
+</resources>

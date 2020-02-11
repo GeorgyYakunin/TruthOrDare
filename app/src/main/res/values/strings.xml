@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Truth or Dare</string>
+    <string name="KEY_AUTO_NEXT" translatable="false">KEY_AUTO_NEXT</string>
+    <string name="KEY_DONT_SHOW_POPUP_ON_PLAY" translatable="false">KEY_DONT_SHOW_POPUP_ON_PLAY</string>
+    <string name="KEY_SOUND" translatable="false">KEY_SOUND</string>
+    <string name="txt_add_symbol" translatable="false">+</string>
+    <string name="dialog_text">Are you sure you want to quit this game?</string>
+    <string name="rating_dialog_cancel">Cancel</string>
+    <string name="rating_dialog_experience">Rate us your experience with us?</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="rating_dialog_maybe_later">Not now</string>
+    <string name="rating_dialog_never">Never</string>
+    <string name="rating_dialog_submit">Submit</string>
+    <string name="rating_dialog_suggestions">"Suggest us what went wrong and we'll work on it!"</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="title_add_dares">Add Dares</string>
+    <string name="title_add_players">Add Players</string>
+    <string name="title_add_truths">Add Truths</string>
+    <string name="title_score_card">Score Card</string>
+
+
+    <string name="back">BACK</string>
+    <string name="lets_play">LET\'S PLAY</string>
+    <string name="truth_or_dare">Truth OR Dare</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+    <string name="score">SCORE</string>
+    <string name="change">CHANGE</string>
+    <string name="add_truth">Add Truth</string>
+    <string name="add_dare">Add Dare</string>
+    <string name="share">Share</string>
+    <string name="setting">SETTING</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="kids">kids</string>
+    <string name="text">text</string>
+    <string name="question_here">Question here</string>
+    <string name="forfeit">FORFEIT</string>
+    <string name="done">DONE</string>
+    <string name="score_card">Score Card</string>
+    <string name="truth">TRUTH</string>
+    <string name="dare">DARE</string>
+</resources>
