@@ -74,7 +74,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/forfeit"
                     android:textColor="@color/black"
-                    android:textSize="21sp"
+                    android:textSize="17sp"
                     android:textStyle="bold" />
                 </LinearLayout>
             </RelativeLayout>
@@ -108,7 +108,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/done"
                     android:textColor="@color/black"
-                    android:textSize="21sp"
+                    android:textSize="17sp"
                     android:textStyle="bold" />
                 </LinearLayout>
             </RelativeLayout>

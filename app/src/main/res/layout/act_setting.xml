@@ -110,7 +110,7 @@
                     android:text="@string/sound_on"
                     android:textAllCaps="true"
                     android:textColor="@color/black"
-                    android:textSize="21sp"
+                    android:textSize="17sp"
                     android:textStyle="bold" />
 
             </LinearLayout>
